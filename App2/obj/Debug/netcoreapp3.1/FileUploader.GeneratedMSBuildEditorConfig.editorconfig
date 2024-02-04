@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = FileUploader
+build_property.ProjectDir = C:\SourceControl\Azure\Learning\Azure Storage\App2\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
